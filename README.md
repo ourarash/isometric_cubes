@@ -2,6 +2,16 @@
 
 This is a sketch based on what I used to draw in highschool.
 
+To run either open [index.html](index.html) in a browser, or use npm's local server:
+```
+npm install -g http-server
+http-server
+```
+
+Then point your browser at http://localhost:8080/
+
+
+
 I used [P5.js](https://p5js.org/) platform.
 
 The original picture that inspired me is below and it was taken from [here](https://bayanbox.ir/info/2562979592567348167/2014-05-10-11.31.36).
